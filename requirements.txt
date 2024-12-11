@@ -42,7 +42,7 @@ Flask==2.3.2
 gunicorn==20.1.0
 pandas==2.0.0
 transformers==4.31.0
-torch==2.1.0
+torch>=2.0.0  # Allow a compatible version of torch
 requests==2.28.0
 beautifulsoup4==4.11.1
 nltk==3.7
