@@ -29,6 +29,7 @@ python-dotenv==1.0.1
 PyYAML==6.0.2
 requests==2.32.3
 requests-oauthlib==2.0.0
+Pyrebase4
 rsa==4.7.2
 s3transfer==0.10.4
 sap-ai-core-metaflow==1.1.21
