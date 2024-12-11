@@ -1,0 +1,103 @@
+# Ignore Python virtual environment
+venv/
+.env/
+
+# Ignore Git-related files and history
+.git/
+.gitignore
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+*.pid
+
+# Ignore development-related files
+*.md
+*.rst
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore data, models, and CSV files if they are not needed in production
+data/
+models/
+*.csv
+
+# Ignore NLTK corpora if they are not required during runtime
+nltk_data/
+
+# Ignore Node.js modules (if used for frontend)
+node_modules/
+
+# Ignore unnecessary libraries or cache files
+*.egg-info/
+*.egg
+*.bak
+.DS_Store
+.cache/
+
+# Ignore Python virtual environment
+venv/
+.env/
+
+# Ignore Git-related files and history
+.git/
+.gitignore
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+*.pid
+
+# Ignore development-related files
+*.md
+*.rst
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore data, models, and CSV files if they are not needed in production
+data/
+models/
+*.csv
+
+# Ignore NLTK corpora if they are not required during runtime
+nltk_data/
+
+# Ignore Node.js modules (if used for frontend)
+node_modules/
+
+# Ignore unnecessary libraries or cache files
+*.egg-info/
+*.egg
+*.bak
+.DS_Store
+.cache/
+
+# Ignore any test directories or files
+tests/
+test/
+
+# Ignore other temporary and build files
+build/
+dist/
+*.so
+*.dll
+*.dylib
+*.lib
+
+# Explicitly exclude large files
+large_file_1.zip
+large_file_2.tar.gz
+
+
+
+
+
+
+
+
